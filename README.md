@@ -6,7 +6,3 @@ Hey! , welcome to my GitHub page. I love open source and am always striving to i
 
 What I'm hacking on
 
-Editor: Neovim 
-The vibe
-relax, write some code, write some bikes, and enjoy life 
-
